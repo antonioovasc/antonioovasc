@@ -16,5 +16,37 @@
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioovasc&layout=compact&theme=light)](https://github.com/antonioovasc)
+
+
+
+
+## 🚀 Sobre Mim
+
+Sou estudante de **Ciência da Computação** e tenho um grande interesse em **desenvolvimento de software**, **inteligência artificial**, **machine learning** e **tecnologias emergentes**. Busco constantemente me aprimorar e estou sempre disposto a aprender novas ferramentas e metodologias.
+
+
+## 📊 Minhas Estatísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioovasc&layout=compact&theme=highcontrast)](https://github.com/antonioovasc)
+
+## 🌱 Curiosidades
+
+- Eu sou apaixonado por **resolver problemas** e **aprender novas linguagens de programação**.
+- Sempre estou em busca de novas **oportunidades de aprendizado** e **desafios**.
+
+---
+  
+Espero que possamos colaborar em projetos interessantes! 😄
+
+
+
+
+
+
+
+
+
+
+
+
 
