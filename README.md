@@ -16,4 +16,5 @@
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioovasc&layout=compact&theme=radical)](https://github.com/antonioovasc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioovasc&layout=compact&theme=light)](https://github.com/antonioovasc)
+
