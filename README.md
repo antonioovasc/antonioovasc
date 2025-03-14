@@ -15,3 +15,5 @@
   <a href="https://www.linkedin.com/in/antonio-vasconcelos-868a89243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfernandasf&layout=compact&theme=radical)](https://github.com/antonioovasc)
