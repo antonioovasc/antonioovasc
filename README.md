@@ -1,4 +1,4 @@
-## Olá eu sou o Antonio Vasconcelos, estudante de Ciência da Computação!
+## Olá, eu sou estudante de Ciência da Computação!
 
 
 <div style="display: inline_block"><br>
