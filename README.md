@@ -16,8 +16,10 @@ Sou graduando em Ciência da Computação no **IFCE** (previsão de conclusão e
 
 ### 📬 Vamos nos conectar?
 
-* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-* 📧 **E-mail:** [aldenivasconcelos7@gmail.com](mailto:aldenivasconcelos7@gmail.com)
+<div> 
+  <a href="mailto:aldenivasconcelos7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/antonio-aldeni-alves-vasconcelos-filho-868a89243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
 
