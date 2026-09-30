@@ -1,55 +1,38 @@
-## Olá, eu sou estudante de Ciência da Computação!
+# Olá, eu sou o Antonio Aldeni! 👋
 
+### Estudante de Ciência da Computação & Desenvolvedor Full Stack 🎓💻
 
-<div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+Sou graduando em Ciência da Computação no **IFCE** (previsão de conclusão em 2026) e Técnico em Informática. Participei da residência em TIC-20 pelo programa **Capacita Brasil/C-Jovem**, onde passei por uma formação intensa de 480 horas focada em desenvolvimento Web Full Stack, metodologias ágeis e projetos práticos em equipe.
 
-  ##
- 
-<div> 
-  <a href = "mailto:aldenivasconcelos7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antonio-vasconcelos-868a89243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
-
-
-
-## 🚀 Sobre Mim
-
-Sou estudante de **Ciência da Computação** e tenho um grande interesse em **desenvolvimento de software**, **inteligência artificial**, **machine learning** e **tecnologias emergentes**. Busco constantemente me aprimorar e estou sempre disposto a aprender novas ferramentas e metodologias.
-
-
-## 📊 Minhas Estatísticas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioovasc&layout=compact&theme=highcontrast)](https://github.com/antonioovasc)
-
-## 🌱 Curiosidades
-
-- Eu sou apaixonado por **resolver problemas** e **aprender novas linguagens de programação**.
-- Sempre estou em busca de novas **oportunidades de aprendizado** e **desafios**.
+Busco minha primeira oportunidade profissional como desenvolvedor de software, com forte interesse em atuar no desenvolvimento web, na construção de APIs e na resolução de problemas complexos utilizando código limpo e eficiente.
 
 ---
-  
-Espero que possamos colaborar em projetos interessantes! 😄
 
+### 🛠️ Tecnologias e Ferramentas
 
+**Linguagens & Back-end:**
+![Java](https://shields.io) ![JavaScript](https://shields.io) ![Python](https://shields.io) ![NodeJS](https://shields.io) ![Express.js](https://shields.io)
 
+**Front-end & Interface:**
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![React](https://shields.io) ![TypeScript](https://shields.io) ![Next.js](https://shields.io)
 
+**Bancos de Dados & Controle de Versão:**
+![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
 
+---
 
+### 📊 Minhas Estatísticas
 
+<p align="center">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="180px"/>
+</p>
 
+---
 
+### 📬 Vamos nos conectar?
 
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![E-mail](https://shields.io)](mailto:aldenivasconcelos7@gmail.com)
 
-
-
+🚀 *Sempre aberto a novos aprendizados, desafios e conexões profissionais!*
