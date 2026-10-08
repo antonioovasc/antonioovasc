@@ -1,35 +1,29 @@
-# Olá, eu sou o Antonio Aldeni! 
+<div align="center">
 
-### Estudante de Ciência da Computação & Desenvolvedor Full Stack 🎓💻
+# Antonio Aldeni
 
-Sou graduando em Ciência da Computação no **IFCE** (previsão de conclusão em 2026) e Técnico em Informática. 
+**Desenvolvedor Full Stack | Graduando em Ciência da Computação (IFCE)**
 
----
+<a href="https://www.linkedin.com/in/antonio-aldeni-alves-vasconcelos-filho-868a89243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  [![Gmail](https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)</a> [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://seu-portfolio.vercel.app)
 
-### 🛠️ Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Aldeni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Aldeni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Aldeni-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Aldeni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Aldeni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Aldeni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Aldeni-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-* **Linguagens & Back-end:** Java • JavaScript • Python • Node.js • Express.js
-* **Front-end & Interface:** HTML5 • CSS3 • React • TypeScript • Next.js
-* **Bancos de Dados & DevOps:** MySQL • PostgreSQL • Git • GitHub
-
----
-
-### 📬 Vamos nos conectar?
-
-<div> 
-  <a href="mailto:aldenivasconcelos7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antonio-aldeni-alves-vasconcelos-filho-868a89243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
 
-🚀 *Sempre aberto a novos aprendizados, desafios e conexões profissionais!*
+<div align="center">
+  <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Express.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+---
+
+
+<p align="center">
+  <i>"A simplicidade é o último grau de sofisticação." — Leonardo da Vinci</i>
+</p>
